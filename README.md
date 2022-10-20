@@ -1,4 +1,5 @@
 
+
 #### :exclamation: :exclamation: :exclamation: I have written this repository to present and keep track on a couple of the projects and achievements I'm most proud of. This should be a a little more interactive of a resume. Focus on what you find interesting.  
 
 Radu G.
@@ -119,19 +120,23 @@ https://ttc.centre.ubbcluj.ro/innovation-labs-teams/
 ## *Autonomous driving vehicle* 🤖🚙 
 
 #### *Short description:* 
-on a track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
+We built a track of ~200 sq. meters. We developed software and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
 #### *My contribution:*
+
+ - designed the software architecture, implemented the image processing algorithms, integrated the SVM model, tested and developed the driving strategies
+ - created and managed the team, made presentations, reports, demos, built track
+
 #### *Images:*
 
-| ImageText1 |  ImageText2 | ImageText3 |
+| Intersection an lane keep |  Crossing detection | Lane keeping |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+|  ![142621561_266908244860400_6729546365899940501_n](https://user-images.githubusercontent.com/24411949/197062549-46aff3f7-245b-487c-953b-e49776bf7a8e.png)     | ![crossing_detection](https://user-images.githubusercontent.com/24411949/197062608-19c04207-8d8d-45ba-8eed-c3de946a7744.png) | ![lane_detection](https://user-images.githubusercontent.com/24411949/197062652-c989cedf-b2fb-4a35-9c5e-2d7a522882bb.png) |
 
 #### *Videos:*
 
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Demo video | 
+| ------------- |
+|   [![ss_demo](https://user-images.githubusercontent.com/24411949/197063004-e7069264-5c2e-49b8-a8e9-d28c9bddf176.png)](https://www.youtube.com/watch?v=zTrHd3_6PZo)    | 
 #### *Team size:* 4-5
 #### *Development time:* 10 months
 #### *Context:* 
@@ -141,7 +146,7 @@ python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign d
 #### *Interesting facts:* 
 - the biggest challenge was that the entire system ran on a raspberry pi 4
 - we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
+- we used sensor data from video, ultrasound, servo motor, gyroscopic motion 
 
 #### *Other references:*
 
@@ -151,30 +156,32 @@ python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign d
 
 ## *Active learning for infrastructure recognition* 📷🚗🧠
 
-*Short description:* identify bridges and tunnels on real data, a production-ready project developed for Bosch that was presented in multiple conferences.
-*My contribution:*
-*Images:*
+#### *Short description:* 
+The purpose was to identify infrastructure (particularly bridges and tunnels) on real-world automotive data. This was a production-ready project that ended up also being deployed. I labelled a driving dataset with tunnel,bridge classifications (binary and multi-class); trained and tuned multiple models on the data; applied data optimization methods (active and semi-supervised learning); and created a simple GUI for the whole process.  
+#### *My contribution:* 
+Almost complete personal contribution (I received help with industrial data collection and scientific research mentoring)
+#### *Images:*
 
-| ImageText1 |  ImageText2 | ImageText3 |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| GUI containing most operations |  Active learning results | 
+| ------------- |:-------------:| 
+|    ![ss_gui_model](https://user-images.githubusercontent.com/24411949/197067779-6c1f7303-ce9e-49b3-9d14-af122b9a9ede.png)   | ![ss_active_learn](https://user-images.githubusercontent.com/24411949/197067846-7c4f0ac4-241d-4c5f-adbb-e2d4800734bf.png) | 
 
-*Videos:*
 
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
+#### *Team size:* 1 
+#### *Development time:* 10 months
+#### *Context:* 
+This was a project developed for Robert Bosch. At the same time it  was presented in multiple conferences (national and international) and represented a basis for my bachelor thesis. The name of the work is "AUTOMOTIVE INTELLIGENT SYSTEMS: TUNNEL RECOGNITION USING DEEP LEARNING TECHNIQUES"
+#### *Technologies and tools:* 
+python, spark, keras computer vision, docker, py desktop GUI, big data, CNN models, active learning and semi-supervised learning 
+#### *Interesting facts:* 
+- data was plenty in this case which made cleaning and filtering a very important job
+- active learning was an important component as I wanted to get the best performance with smallest ammount of data
+- the project included a sophisticated custom created GUI for loading, training, validating models and loading, labelling, filtering data
 
-*Other references:*
-
+#### *Other references:*
+https://conferences.ulbsibiu.ro/mdis/2020/conference_program.php
+https://www.cs.ubbcluj.ro/scss/
+https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facultatatea-de-matematica-si-informatica-competitia-2021-2022/
 
 --------
 
