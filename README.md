@@ -1,10 +1,14 @@
 
+#### :exclamation: :exclamation: :exclamation: I have written this repository to present and keep track on a couple of the projects and achievements I'm most proud of. This should be a a little more interactive of a resume. Focus on what you find interesting.  
+
 Radu G.
 ======
 
 ####  :bulb: I believe that most people these days have either lost a certain fire :fire: or they lack ballance ⚖️ , that's why I am trying to combine the unilateral development with excellency in specific fields. The goal? Become a complete and content individual. ✔️
-######  [linkedIn](https://www.linkedin.com/in/radu-galan/) / radu.galan1@gmail.com  
+####  [linkedIn](https://www.linkedin.com/in/radu-galan/) / radu.galan1@gmail.com  
 ----------------
+
+## Contents
 - [🏫Education](#--education)
     + [**Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University**](#--master-s-degree--applied-computational-intelligence--ai----babes-bolyai-university--)
     + [**Bachelor's Degree, Computer Science, Babes-Bolyai University**](#--bachelor-s-degree--computer-science--babes-bolyai-university--)
@@ -88,7 +92,7 @@ It uses a list of touristic objectives, a location, a time period. Takes into co
 |   ![mobile_app](https://user-images.githubusercontent.com/24411949/197050278-8cdbb0b2-00e6-4f6e-8334-d60680a893f7.png)  | ![logo](https://user-images.githubusercontent.com/24411949/197050880-3d00a404-3532-4439-93af-edcc9df7ce5c.png) | 
 
 
-#### *Videos:*
+#### *Videos: click image to open*
 
 | Short mobile application demo |  Idea presentation | 
 | ------------- |:-------------:| 
