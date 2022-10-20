@@ -104,7 +104,7 @@ It uses a list of touristic objectives, a location, a time period. Takes into co
 #### *Context:* 
 started as multiple personal school projects, pitched it, put a small team of friends together and participated in two startup incubators
 #### *Technologies and tools:* 
-python, scikitlearn, pytorch, multiple public api's, openstreetmap, multiple ML libraries
+python, scikitlearn, pytorch, multiple public api's, openstreetmap, multiple ML libraries, nltk and other nlp libraries (intent recognition, sentiment analysis and multi-document summarization) 
 #### *Interesting facts:* 
 - the problem has many names but the most popular ones are: TSP (Travelling Salesman Problem), OP (the orienteering problem), and the Scheduling Problem
 - recommendation systems are usually underrated in complexity (we experimented with different algorithms) and we had many complication due to the current stigma 
