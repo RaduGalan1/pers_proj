@@ -62,6 +62,7 @@ Radu G.
 (2020-present) 🤖👁️👨‍🦯
 - Working to create, integrate and mantain the intelligent models on a device that helps the blind navigate independently
 -  artificial intelligence algorithms, computer vision models (for detection, classification, segmentation, ocr) training/validation/deployment on embedded, dataset creation and analysis, Robotics, ROS, Ubuntu
+-  mainly worked with python (sometimes other needed languages or tools), used data science libraries (from simple numpy, panda to complex dataset constructions and querying), machine learning (from scikit and pytorch to cuda optimizations) 
 
 -----
 
@@ -99,7 +100,7 @@ This represents the dissertation thesis for my master's degree. It also received
 ## *VOYAS -  Intelligent itinerary generator and travelling assistant* 🧳🤖
 
 #### *Short description:* 
-It uses a list of touristic objectives, a location, a time period. Takes into consideration: the user's interests, the active hours, recommended visit time, prefered transit, the need for uniformly distributed activities on all days, shortest route distance, and other personal information for a custom travelling itinerary.
+It uses a list of touristic objectives, a location, a time period. Takes into consideration: the user's interests, the active hours, recommended visit time, prefered transit, the need for uniformly distributed activities on all days, shortest route distance, and other personal information for a custom travelling itinerary. There is a personal recommender system, complex route optimization, location recommender, and live assistant.
 
 #### *My contribution:*
  I constructed the idea and the plan based on a personal need. Designed and implemented multiple solution for this problem (or subproblems):
@@ -110,6 +111,7 @@ It uses a list of touristic objectives, a location, a time period. Takes into co
  - Solving as Scheduling Problem using agent-based modelling 
  - Solving as a Density-based clustering problem
  - Coordinating the team, architecture, design, business
+ - worked on the location recommender 
 
 #### *Images:*
 
@@ -215,8 +217,6 @@ https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facul
 --------
 
 
-
-
 ## **Market Predictor** 🤖🚙 
 
 #### *Short description:* 
@@ -251,152 +251,75 @@ python, yahoo finance, forex database, sklearn
 #### *Other references:*
 
 
+
+--------
+
+## **Health and Diet assistant** 🤖🚙 
+
+#### *Short description:* 
+The first part of the project connects multiple databases to achieve a complete dietary bridge between health needs and food (dish name correlation to recipes and ingredients, food containing of different substances depending on state, adn substance correlation to medical effect). This was a search engine that looked through millions of data points to return recipes on custom queries. These could be customized to fit certain medical needs (from alergies to a blood sugar increase). 
+The second part collects data from an intelligent watch (bpm, oxigen levels, stress, sleep, etc) which required integration with fitbit (IFTTT) along with hand-typed information from a form. Data is used to draw statistics and approximate trends in a simple GUI.
+These two components could obviously be further connected.
+
+#### *My contribution:* Complete
+#### *Images:*
+
+| Food search prototype simple query |  Sleep logger | 
+| ------------- |:-------------:| 
+|   ![ss_prototype](https://user-images.githubusercontent.com/24411949/197298234-dd4d64a3-08cd-45ed-8b90-f83522518e50.png) | ![logger](https://user-images.githubusercontent.com/24411949/197299323-b9b1b4e2-e661-4648-89ff-268edadf6685.png) | 
+
+#### *Team size:* 1
+#### *Development time:* 10 months
+#### *Context:* universtiy and personal project
+#### *Technologies and tools:*
+python, NLP libraries, ontology library, other data processing and conversion tools
+#### *Interesting facts:* 
+-
+
+#### *Other references:*
+
+
 --------
 
 ## **Student Calendar** 🤖🚙 
 
-#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-#### *My contribution:*
+#### *Short description:* 
+A multi-system project designed to bring together in a more pleasant and organised form the information needed to a student. It dealt with schedules, announcements, project management, and many more.
+#### *My contribution:* 
+ - problem description, planning, managing, scrapping algorithm, business logic
 #### *Images:*
 
-| ImageText1 |  ImageText2 | ImageText3 |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
-#### *Videos:*
-
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-#### *Team size:* 4-5
-#### *Development time:* 10 months
-#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-#### *Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
-
-#### *Other references:*
-
---------
-
-## **Location recommender** 🤖🚙 
-
-#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-#### *My contribution:*
-#### *Images:*
-
-| ImageText1 |  ImageText2 | ImageText3 |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
-#### *Videos:*
-
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-#### *Team size:* 4-5
-#### *Development time:* 10 months
-#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-#### *Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
-
-#### *Other references:*
---------
-
-## **Object Tracking System** 🤖🚙 
-
-#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-#### *My contribution:*
-#### *Images:*
-
-| ImageText1 |  ImageText2 | ImageText3 |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
-#### *Videos:*
-
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-#### *Team size:* 4-5
-#### *Development time:* 10 months
-#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-#### *Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
-
-#### *Other references:*
-
+| Login page |  
+| ------------- |
+| ![open_page](https://user-images.githubusercontent.com/24411949/197295701-bc037640-4b6a-44a8-ad5d-f387f06fa026.jpg)
+    |
+#### *Team size:* 5-11
+#### *Development time:* 4-5 months
+#### *Context:* 
+This was a university project made in bigger teams with the purpose of learning self-discipline, managing, agile develoment.  
 
 --------
 
 ## **Design Creator** 🤖🚙 
 
-#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-#### *My contribution:*
-#### *Images:*
-
-| ImageText1 |  ImageText2 | ImageText3 |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
+#### *Short description:* 
+A relatively simple automated bot that first made random image editing operation in photoshop on photos and then applied more sophisticated recommended techniques.
 #### *Videos:*
 
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-#### *Team size:* 4-5
-#### *Development time:* 10 months
-#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-#### *Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
-
-#### *Other references:*
---------
+| Demo of initial design bot | 
+| ------------- |
+|  [![ss_design_prez](https://user-images.githubusercontent.com/24411949/197296196-eaafe3ef-6301-4e4c-99fc-38767a7d1940.png)](https://www.youtube.com/watch?v=1yyYCnmAads) |
+#### *Team size:* 1-2
+#### *Development time:* 2-3 months
+#### *Context:* university project
+#### *Technologies and tools:* python, image processing, uipath
 --------
 
-## **Food Recommender** 🤖🚙 
-
-#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-#### *My contribution:*
-#### *Images:*
-
-| ImageText1 |  ImageText2 | ImageText3 |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
-#### *Videos:*
-
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-#### *Team size:* 4-5
-#### *Development time:* 10 months
-#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-#### *Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
-
-#### *Other references:*
+:trophy: Strong points
+------
+- I can deal with complexity variance
 
 --------
-
-Planetary system simulation
-Object Localization System
-
-
 
 --------
 
@@ -412,9 +335,4 @@ Object Localization System
 
 *Organisational*
 
-:trophy: Strong points
-------
-- I can deal with complexity variance*Sterling Prize Fellowship*, Yale University (2013). Awarded to 30 out of 10,500 applicants.
 
-
---------
