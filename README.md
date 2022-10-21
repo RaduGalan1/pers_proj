@@ -132,7 +132,7 @@ We built a track of ~200 sq. meters. We developed software and engineered augmen
 | ------------- |:-------------:| -----:|
 |  ![142621561_266908244860400_6729546365899940501_n](https://user-images.githubusercontent.com/24411949/197062549-46aff3f7-245b-487c-953b-e49776bf7a8e.png)     | ![crossing_detection](https://user-images.githubusercontent.com/24411949/197062608-19c04207-8d8d-45ba-8eed-c3de946a7744.png) | ![lane_detection](https://user-images.githubusercontent.com/24411949/197062652-c989cedf-b2fb-4a35-9c5e-2d7a522882bb.png) |
 
-#### *Videos:*
+#### *Videos: click image to open*
 
 | Demo video | 
 | ------------- |
@@ -188,27 +188,27 @@ https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facul
 
 ##  **Anthropological simulation** 🤖🚙 
 
-*Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-*My contribution:*
-*Images:*
+#### *Short description:* 
+The purpose was to create and simulate a population of early humans (Homo S. Sapiens) in the late Pleistocene of Europe (sometime between 40’000 - 12’000 years ago). The spatially explicit models provide accurate environmental attributes (temperature, altitude, geography, reconstructed ancient forests, and other resources) that are emulated based on a unique dataset inspired by satellite collections and scientific research. Human agents possess the abilities needed to perceive the environment, imagine scenarios, rationalize outcomes, decide what is best for them, and act upon the world or other agents. The decision-making processes are using decision trees trained on historical data extracted from the simulation world. All micro-level attributes and parameters are modelled based on anthropological, biological, geographical, botanical, and zoological statistical knowledge.
+#### *My contribution:* Complete personal contribution (received consultance from coordinator)
+#### *Images:*
 
-| ImageText1 |  ImageText2 | ImageText3 |
+| Histogram of attributes |  DataInput |
+| ------------- |:-------------:| 
+|![ss_histo](https://user-images.githubusercontent.com/24411949/197292457-c1f0de17-0350-4e85-a37b-cca6a6d0cfcc.png)  | ![data](https://user-images.githubusercontent.com/24411949/197292508-d8b2d54c-f102-46da-a442-1a0a70c52744.png)| 
+
+#### *Videos: click image to open*
+
+| Presentation |  Plant simulation | Human simulation  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
-*Videos:*
-
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
+| [![ss_prez](https://user-images.githubusercontent.com/24411949/197291699-d233cfb2-c5e4-4008-b24b-80a097609544.png)](https://youtu.be/4JRiTkqs3JY)      | [![ss_map](https://user-images.githubusercontent.com/24411949/197292094-77955cbd-c646-48de-88e6-2c19d96c7d8d.png)](https://youtu.be/ES9tGGEQmPU) | [![ss_human_sim](https://user-images.githubusercontent.com/24411949/197292398-8d103eca-195c-41f5-bf29-5fd5b4f6c4f8.png)](https://youtu.be/ByEYaAFG_b0) |
+#### *Team size:* 1 (with resource and consultance support from coordinater professor)
+#### *Development time:* 10 months
+#### *Context:* 
+This represents the dissertation thesis for my master's degree. It also received special research scholarship from the university and is currently in the publishing process to IEE access. My coordinator professor was Dr. Gabriela Czibula. Also presented in national conferences.
+#### *Technologies and tools:* python, pytorch, multiple custom python plugins
+#### *Interesting facts:* 
+- 
 
 *Other references:*
 
