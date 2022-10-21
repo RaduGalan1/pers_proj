@@ -65,7 +65,36 @@ Radu G.
 
 -----
 
-# 👨‍💻Projects
+# 👨‍💻 Other Projects
+
+
+##  **Anthropological simulation** 🤖🚙 
+
+#### *Short description:* 
+The purpose was to create and simulate a population of early humans (Homo S. Sapiens) in the late Pleistocene of Europe (sometime between 40’000 - 12’000 years ago). The spatially explicit models provide accurate environmental attributes (temperature, altitude, geography, reconstructed ancient forests, and other resources) that are emulated based on a unique dataset inspired by satellite collections and scientific research. Human agents possess the abilities needed to perceive the environment, imagine scenarios, rationalize outcomes, decide what is best for them, and act upon the world or other agents. The decision-making processes are using decision trees trained on historical data extracted from the simulation world. All micro-level attributes and parameters are modelled based on anthropological, biological, geographical, botanical, and zoological statistical knowledge.
+#### *My contribution:* Complete personal contribution (received consultance from coordinator)
+#### *Images:*
+
+| Histogram of attributes |  DataInput |
+| ------------- |:-------------:| 
+|![ss_histo](https://user-images.githubusercontent.com/24411949/197292457-c1f0de17-0350-4e85-a37b-cca6a6d0cfcc.png)  | ![data](https://user-images.githubusercontent.com/24411949/197292508-d8b2d54c-f102-46da-a442-1a0a70c52744.png)| 
+
+#### *Videos: click image to open*
+
+| Presentation |  Plant simulation | Human simulation  |
+| ------------- |:-------------:| -----:|
+| [![ss_prez](https://user-images.githubusercontent.com/24411949/197291699-d233cfb2-c5e4-4008-b24b-80a097609544.png)](https://youtu.be/4JRiTkqs3JY)      | [![ss_map](https://user-images.githubusercontent.com/24411949/197292094-77955cbd-c646-48de-88e6-2c19d96c7d8d.png)](https://youtu.be/ES9tGGEQmPU) | [![ss_human_sim](https://user-images.githubusercontent.com/24411949/197292398-8d103eca-195c-41f5-bf29-5fd5b4f6c4f8.png)](https://youtu.be/ByEYaAFG_b0) |
+#### *Team size:* 1 (with resource and consultance support from coordinater professor)
+#### *Development time:* 10 months
+#### *Context:* 
+This represents the dissertation thesis for my master's degree. It also received special research scholarship from the university and is currently in the publishing process to IEE access. My coordinator professor was Dr. Gabriela Czibula. Also presented in national conferences.
+#### *Technologies and tools:* python, pytorch, multiple custom python plugins
+#### *Interesting facts:* 
+- 
+
+*Other references:*
+
+--------
 
 ## *VOYAS -  Intelligent itinerary generator and travelling assistant* 🧳🤖
 
@@ -186,207 +215,181 @@ https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facul
 --------
 
 
-##  **Anthropological simulation** 🤖🚙 
+
+
+## **Market Predictor** 🤖🚙 
 
 #### *Short description:* 
-The purpose was to create and simulate a population of early humans (Homo S. Sapiens) in the late Pleistocene of Europe (sometime between 40’000 - 12’000 years ago). The spatially explicit models provide accurate environmental attributes (temperature, altitude, geography, reconstructed ancient forests, and other resources) that are emulated based on a unique dataset inspired by satellite collections and scientific research. Human agents possess the abilities needed to perceive the environment, imagine scenarios, rationalize outcomes, decide what is best for them, and act upon the world or other agents. The decision-making processes are using decision trees trained on historical data extracted from the simulation world. All micro-level attributes and parameters are modelled based on anthropological, biological, geographical, botanical, and zoological statistical knowledge.
-#### *My contribution:* Complete personal contribution (received consultance from coordinator)
+Worked on an idea for a prediction algorithm on the forex market (algobot) without the trading interface (backtesting mostly). This new design achieved great results in thoery so I also integrated into a interface during a team project. The idea itself covers multiple a.i. techniques and manages to construct beautifully a logical learning environment for economical technical analysis.
+#### *My contribution:*
+ - pattern matching algorithm, integration and testing
+ - initial idea, plan and prototype, team management, presentation
 #### *Images:*
 
-| Histogram of attributes |  DataInput |
-| ------------- |:-------------:| 
-|![ss_histo](https://user-images.githubusercontent.com/24411949/197292457-c1f0de17-0350-4e85-a37b-cca6a6d0cfcc.png)  | ![data](https://user-images.githubusercontent.com/24411949/197292508-d8b2d54c-f102-46da-a442-1a0a70c52744.png)| 
+| Results |  
+| ------------- |
+|  ![pattern_matching](https://user-images.githubusercontent.com/24411949/197294736-9f6565bc-7262-446f-a8ea-9291cc6a7219.png)    |
 
-#### *Videos: click image to open*
+| Interface |  
+| ------------- |
+|![interface](https://user-images.githubusercontent.com/24411949/197294686-8ad78a4d-e199-4d5f-b730-15c393cd0bac.png)   | 
 
-| Presentation |  Plant simulation | Human simulation  |
-| ------------- |:-------------:| -----:|
-| [![ss_prez](https://user-images.githubusercontent.com/24411949/197291699-d233cfb2-c5e4-4008-b24b-80a097609544.png)](https://youtu.be/4JRiTkqs3JY)      | [![ss_map](https://user-images.githubusercontent.com/24411949/197292094-77955cbd-c646-48de-88e6-2c19d96c7d8d.png)](https://youtu.be/ES9tGGEQmPU) | [![ss_human_sim](https://user-images.githubusercontent.com/24411949/197292398-8d103eca-195c-41f5-bf29-5fd5b4f6c4f8.png)](https://youtu.be/ByEYaAFG_b0) |
-#### *Team size:* 1 (with resource and consultance support from coordinater professor)
-#### *Development time:* 10 months
+#### *Videos:*
+
+| Presentation of app and algorithm | 
+| ------------- |
+| [![ss_pres](https://user-images.githubusercontent.com/24411949/197293482-43d6ab38-08a4-47a9-b571-b5aab0b4fa52.png)](https://www.youtube.com/watch?v=YmtdlMYznQs) | 
+#### *Team size:* 1-3 (during its lifetime)
+#### *Development time:* 5-7 months
 #### *Context:* 
-This represents the dissertation thesis for my master's degree. It also received special research scholarship from the university and is currently in the publishing process to IEE access. My coordinator professor was Dr. Gabriela Czibula. Also presented in national conferences.
-#### *Technologies and tools:* python, pytorch, multiple custom python plugins
+ Personal project that turned into an individual study of pattern matching and evolved into a university team project with a few other techniques and frameworks. 
+#### *Technologies and tools:* 
+python, yahoo finance, forex database, sklearn
 #### *Interesting facts:* 
 - 
 
-*Other references:*
-
---------
-
-
-## **Forex Predictor** 🤖🚙 
-
-*Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-*My contribution:*
-*Images:*
-
-| ImageText1 |  ImageText2 | ImageText3 |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
-*Videos:*
-
-| ImageText1 |  ImageText2 | ImageText3  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
-- the biggest challenge was that the entire system ran on a raspberry pi 4
-- we had to construct a scalable and optimal architecture
-- we used data from video, ultrasound, servo motor, gyroscopic motion sensor
-
-*Other references:*
+#### *Other references:*
 
 
 --------
 
 ## **Student Calendar** 🤖🚙 
 
-*Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-*My contribution:*
-*Images:*
+#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
+#### *My contribution:*
+#### *Images:*
 
 | ImageText1 |  ImageText2 | ImageText3 |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 
-*Videos:*
+#### *Videos:*
 
 | ImageText1 |  ImageText2 | ImageText3  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
+#### *Team size:* 4-5
+#### *Development time:* 10 months
+#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
+#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
+#### *Interesting facts:* 
 - the biggest challenge was that the entire system ran on a raspberry pi 4
 - we had to construct a scalable and optimal architecture
 - we used data from video, ultrasound, servo motor, gyroscopic motion sensor
 
-*Other references:*
-
+#### *Other references:*
 
 --------
 
 ## **Location recommender** 🤖🚙 
 
-*Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-*My contribution:*
-*Images:*
+#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
+#### *My contribution:*
+#### *Images:*
 
 | ImageText1 |  ImageText2 | ImageText3 |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 
-*Videos:*
+#### *Videos:*
 
 | ImageText1 |  ImageText2 | ImageText3  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
+#### *Team size:* 4-5
+#### *Development time:* 10 months
+#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
+#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
+#### *Interesting facts:* 
 - the biggest challenge was that the entire system ran on a raspberry pi 4
 - we had to construct a scalable and optimal architecture
 - we used data from video, ultrasound, servo motor, gyroscopic motion sensor
 
-*Other references:*
-
-
+#### *Other references:*
 --------
 
 ## **Object Tracking System** 🤖🚙 
 
-*Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-*My contribution:*
-*Images:*
+#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
+#### *My contribution:*
+#### *Images:*
 
 | ImageText1 |  ImageText2 | ImageText3 |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 
-*Videos:*
+#### *Videos:*
 
 | ImageText1 |  ImageText2 | ImageText3  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
+#### *Team size:* 4-5
+#### *Development time:* 10 months
+#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
+#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
+#### *Interesting facts:* 
 - the biggest challenge was that the entire system ran on a raspberry pi 4
 - we had to construct a scalable and optimal architecture
 - we used data from video, ultrasound, servo motor, gyroscopic motion sensor
 
-*Other references:*
+#### *Other references:*
 
 
 --------
 
 ## **Design Creator** 🤖🚙 
 
-*Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-*My contribution:*
-*Images:*
+#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
+#### *My contribution:*
+#### *Images:*
 
 | ImageText1 |  ImageText2 | ImageText3 |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 
-*Videos:*
+#### *Videos:*
 
 | ImageText1 |  ImageText2 | ImageText3  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
+#### *Team size:* 4-5
+#### *Development time:* 10 months
+#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
+#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
+#### *Interesting facts:* 
 - the biggest challenge was that the entire system ran on a raspberry pi 4
 - we had to construct a scalable and optimal architecture
 - we used data from video, ultrasound, servo motor, gyroscopic motion sensor
 
-*Other references:*
-
-
+#### *Other references:*
 --------
 --------
 
 ## **Food Recommender** 🤖🚙 
 
-*Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
-*My contribution:*
-*Images:*
+#### *Short description:* on track of ~200 sq. meters we developed and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
+#### *My contribution:*
+#### *Images:*
 
 | ImageText1 |  ImageText2 | ImageText3 |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 
-*Videos:*
+#### *Videos:*
 
 | ImageText1 |  ImageText2 | ImageText3  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-*Team size:* 4-5
-*Development time:* 10 months
-*Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
-*Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
-*Interesting facts:* 
+#### *Team size:* 4-5
+#### *Development time:* 10 months
+#### *Context:* enrolled in a competition organised by Robert Bosch and participated all the way through semi-finals. 
+#### *Technologies and tools:* python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign detection, advanced image processings
+#### *Interesting facts:* 
 - the biggest challenge was that the entire system ran on a raspberry pi 4
 - we had to construct a scalable and optimal architecture
 - we used data from video, ultrasound, servo motor, gyroscopic motion sensor
 
-*Other references:*
-
+#### *Other references:*
 
 --------
 
