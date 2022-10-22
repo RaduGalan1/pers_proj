@@ -89,7 +89,8 @@ The purpose was to create and simulate a population of early humans (Homo S. Sap
 This represents the dissertation thesis for my master's degree. It also received special research scholarship from the university and is currently in the publishing process to IEE access. My coordinator professor was Dr. Gabriela Czibula. Also presented in national conferences.
 #### *Technologies and tools:* python, pytorch, multiple custom python plugins
 #### *Interesting facts:* 
-- 
+ - validation is still scientifically contestest in correctness and form
+ - knowledge can be extracted from these experiments to identify connections between  micro level cognitiom amd macro level societal behavior 
 
 *Other references:*
 
@@ -248,7 +249,8 @@ Worked on an idea for a prediction algorithm on the forex market (algobot) witho
 #### *Technologies and tools:* 
 python, yahoo finance, forex database, sklearn
 #### *Interesting facts:* 
-- 
+ - the algorithm achieved over 95% accuracy (with 5 classes of trends) in predicting a few of the forex currencies
+ 
 
 #### *Other references:*
 
@@ -277,7 +279,7 @@ These two components could obviously be further connected.
 #### *Technologies and tools:*
 python, NLP libraries, ontology library, other data processing and conversion tools
 #### *Interesting facts:* 
--
+ - this project started as a personal attempt to log and optimize my health
 
 #### *Other references:*
 
