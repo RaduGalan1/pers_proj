@@ -1,8 +1,10 @@
 
 
+
+
 #### :exclamation: :exclamation: :exclamation: I have written this repository to present and keep track on a couple of the projects and achievements I'm most proud of. This should be a a little more interactive of a resume. Focus on what you find interesting.  
 
-Radu G.
+Radu Galan
 ======
 
 ####  :bulb: I believe that most people these days have either lost a certain fire :fire: or they lack ballance ⚖️ , that's why I am trying to combine the unilateral development with excellency in specific fields. The goal? Become a complete and content individual. ✔️
@@ -10,17 +12,9 @@ Radu G.
 ----------------
 
 ## Contents
-- [🏫Education](#--education)
-    + [**Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University**](#--master-s-degree--applied-computational-intelligence--ai----babes-bolyai-university--)
-    + [**Bachelor's Degree, Computer Science, Babes-Bolyai University**](#--bachelor-s-degree--computer-science--babes-bolyai-university--)
-    + [**National College of Informatic, Piatra Neamt**](#--national-college-of-informatic--piatra-neamt--)
-- [💼Experience](#--experience)
-    + [**MACHINE LEARNING ENGINEER - Robert Bosch - 13 months**](#--machine-learning-engineer---robert-bosch---13-months--)
-    + [**MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months**](#--machine-learning---computer-vision-engineer-----lumen---24--months--)
-- [👨‍💻Projects](#-----projects)
-    + [**VOYAS**](#--voyas--)
-- [:hammer: General Skills](#-hammer--general-skills)
-- [:trophy: Awards and distinctions](#-trophy--awards-and-distinctions)
+
+
+
 
 
 ----------------
@@ -76,15 +70,19 @@ The purpose was to create and simulate a population of early humans (Homo S. Sap
 #### *My contribution:* Complete personal contribution (received consultance from coordinator)
 #### *Images:*
 
-| Histogram of attributes |  DataInput |
-| ------------- |:-------------:| 
-|![ss_histo](https://user-images.githubusercontent.com/24411949/197292457-c1f0de17-0350-4e85-a37b-cca6a6d0cfcc.png)  | ![data](https://user-images.githubusercontent.com/24411949/197292508-d8b2d54c-f102-46da-a442-1a0a70c52744.png)| 
+| Histogram of attributes |
+| ------------- |
+| <img src="https://user-images.githubusercontent.com/24411949/197292457-c1f0de17-0350-4e85-a37b-cca6a6d0cfcc.png" alt="IMAGE ALT TEXT HERE" width="480" height="480" border="10" /> |
+
+|  DataInput | 
+| ------------- | 
+![data](https://user-images.githubusercontent.com/24411949/197292508-d8b2d54c-f102-46da-a442-1a0a70c52744.png)| 
 
 #### *Videos: click image to open*
 
 | Presentation |  Plant simulation | Human simulation  |
 | ------------- |:-------------:| -----:|
-| [![ss_prez](https://user-images.githubusercontent.com/24411949/197291699-d233cfb2-c5e4-4008-b24b-80a097609544.png)](https://youtu.be/4JRiTkqs3JY)      | [![ss_map](https://user-images.githubusercontent.com/24411949/197292094-77955cbd-c646-48de-88e6-2c19d96c7d8d.png)](https://youtu.be/ES9tGGEQmPU) | [![ss_human_sim](https://user-images.githubusercontent.com/24411949/197292398-8d103eca-195c-41f5-bf29-5fd5b4f6c4f8.png)](https://youtu.be/ByEYaAFG_b0) |
+| [![ss_prez](https://user-images.githubusercontent.com/24411949/197291699-d233cfb2-c5e4-4008-b24b-80a097609544.png)](https://youtu.be/4JRiTkqs3JY)      | [![ss_map](https://user-images.githubusercontent.com/24411949/197292094-77955cbd-c646-48de-88e6-2c19d96c7d8d.png)](https://youtu.be/ES9tGGEQmPU) | [<img src="https://user-images.githubusercontent.com/24411949/197292398-8d103eca-195c-41f5-bf29-5fd5b4f6c4f8.png" alt="IMAGE ALT TEXT HERE" width="1940" height="160" border="10" />](https://youtu.be/ByEYaAFG_b0) |
 #### *Team size:* 1 (with resource and consultance support from coordinater professor)
 #### *Development time:* 10 months
 #### *Context:* 
@@ -128,7 +126,7 @@ It uses a list of touristic objectives, a location, a time period. Takes into co
 
 | Short mobile application demo |  Idea presentation | 
 | ------------- |:-------------:| 
-| [![ss_demo](https://user-images.githubusercontent.com/24411949/197053921-9d108ba2-9d19-4ba8-a7a3-bbe8818965c5.png)](https://youtube.com/shorts/IE4gk0PsTTc)  | [![ss_prezentare](https://user-images.githubusercontent.com/24411949/197054487-d4d06a70-9206-4e96-a5b3-f60750469e86.png)](https://youtu.be/uLDOOdmViWA) | 
+| [<img src="https://user-images.githubusercontent.com/24411949/197053921-9d108ba2-9d19-4ba8-a7a3-bbe8818965c5.png" alt="IMAGE ALT TEXT HERE" width="300" height="420" border="10" />](https://youtube.com/shorts/IE4gk0PsTTc)  | [![ss_prezentare](https://user-images.githubusercontent.com/24411949/197054487-d4d06a70-9206-4e96-a5b3-f60750469e86.png)](https://youtu.be/uLDOOdmViWA) | 
 
 #### *Team size:* 4-8 (varying across time)
 #### *Development time:* ~2 years (2017- 2020)
@@ -161,7 +159,7 @@ We built a track of ~200 sq. meters. We developed software and engineered augmen
 
 | Intersection an lane keep |  Crossing detection | Lane keeping |
 | ------------- |:-------------:| -----:|
-|  ![142621561_266908244860400_6729546365899940501_n](https://user-images.githubusercontent.com/24411949/197062549-46aff3f7-245b-487c-953b-e49776bf7a8e.png)     | ![crossing_detection](https://user-images.githubusercontent.com/24411949/197062608-19c04207-8d8d-45ba-8eed-c3de946a7744.png) | ![lane_detection](https://user-images.githubusercontent.com/24411949/197062652-c989cedf-b2fb-4a35-9c5e-2d7a522882bb.png) |
+|  <img src="https://user-images.githubusercontent.com/24411949/197062549-46aff3f7-245b-487c-953b-e49776bf7a8e.png" alt="The application" width="440" height="290" border="10" />     | ![crossing_detection](https://user-images.githubusercontent.com/24411949/197062608-19c04207-8d8d-45ba-8eed-c3de946a7744.png) | ![lane_detection](https://user-images.githubusercontent.com/24411949/197062652-c989cedf-b2fb-4a35-9c5e-2d7a522882bb.png) |
 
 #### *Videos: click image to open*
 
@@ -193,9 +191,13 @@ The purpose was to identify infrastructure (particularly bridges and tunnels) on
 Almost complete personal contribution (I received help with industrial data collection and scientific research mentoring)
 #### *Images:*
 
-| GUI containing most operations |  Active learning results | 
-| ------------- |:-------------:| 
-|    ![ss_gui_model](https://user-images.githubusercontent.com/24411949/197067779-6c1f7303-ce9e-49b3-9d14-af122b9a9ede.png)   | ![ss_active_learn](https://user-images.githubusercontent.com/24411949/197067846-7c4f0ac4-241d-4c5f-adbb-e2d4800734bf.png) | 
+| GUI containing most operations | 
+| ------------- |
+|    ![ss_gui_model](https://user-images.githubusercontent.com/24411949/197067779-6c1f7303-ce9e-49b3-9d14-af122b9a9ede.png)|
+   
+ | Active learning results | 
+ | ------------- | 
+| <img src="https://user-images.githubusercontent.com/24411949/197067846-7c4f0ac4-241d-4c5f-adbb-e2d4800734bf.png" alt="The application" width="1040" height="465" border="10" /> | 
 
 
 #### *Team size:* 1 
@@ -266,7 +268,8 @@ These two components could obviously be further connected.
 
 | Food search prototype simple query |  Sleep logger | 
 | ------------- |:-------------:| 
-|   ![ss_prototype](https://user-images.githubusercontent.com/24411949/197298234-dd4d64a3-08cd-45ed-8b90-f83522518e50.png) | ![logger](https://user-images.githubusercontent.com/24411949/197299323-b9b1b4e2-e661-4648-89ff-268edadf6685.png) | 
+|   ![ss_prototype](https://user-images.githubusercontent.com/24411949/197298234-dd4d64a3-08cd-45ed-8b90-f83522518e50.png) |<img src="https://user-images.githubusercontent.com/24411949/197299323-b9b1b4e2-e661-4648-89ff-268edadf6685.png" alt="The food" width="1240" height="360" border="10" /> | 
+
 
 #### *Team size:* 1
 #### *Development time:* 10 months
@@ -291,8 +294,7 @@ A multi-system project designed to bring together in a more pleasant and organis
 
 | Login page |  
 | ------------- |
-| ![open_page](https://user-images.githubusercontent.com/24411949/197295701-bc037640-4b6a-44a8-ad5d-f387f06fa026.jpg)
-    |
+|  <img src="https://user-images.githubusercontent.com/24411949/197295701-bc037640-4b6a-44a8-ad5d-f387f06fa026.jpg" alt="The application" width="540" height="360" border="10" />    |
 #### *Team size:* 5-11
 #### *Development time:* 4-5 months
 #### *Context:* 
@@ -308,7 +310,7 @@ A relatively simple automated bot that first made random image editing operation
 
 | Demo of initial design bot | 
 | ------------- |
-|  [![ss_design_prez](https://user-images.githubusercontent.com/24411949/197296196-eaafe3ef-6301-4e4c-99fc-38767a7d1940.png)](https://www.youtube.com/watch?v=1yyYCnmAads) |
+|  [ <img src="https://user-images.githubusercontent.com/24411949/197296196-eaafe3ef-6301-4e4c-99fc-38767a7d1940.png" alt="The bot" width="480" height="360" border="10" />   ](https://www.youtube.com/watch?v=1yyYCnmAads) |
 #### *Team size:* 1-2
 #### *Development time:* 2-3 months
 #### *Context:* university project
