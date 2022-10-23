@@ -321,25 +321,38 @@ A relatively simple automated bot that first made random image editing operation
 
 💪🤓 Strong points
 ------
-- ability to adapt to complexity variance: 
+- **scientific expertise**:
+  - conducted and participated in multiple academic research projects
+  - a curiosity ot always experiment with the State Of The Art
+  - a strong passion to learn many other subfields of science (from Astrophisics, Quantum Dynamics to Paleoecology, Anatomy)  
+- **industry experience**:
+  - developed and deployed project on industry standard
+  - experienced many levels of complexity development
+  - worked for more than 3 years in software development teams
+- **ability to adapt to complexity variance**: 
   - passion for scientifical study and management methodologies necessary in a properly validated and endorsed product (you never have enough documentation)
   - experience in fast developing and prototyping for the sake of a Proof of Concept (because sometimes time is of at most importance)
-
+- **business understanding**:
+  - attended multiple conventions, conferences, workshops on business development, economics, management
+  - experience in the industry with understand the relation between feasibility and requirements
+- **confidence in social know-how**:
+  - experience as public speaker makes communication efficient and elegant
+  - hobby of studying psychoanalysis and behavioural science gives great insight into people
+  - life philosophy of openness and honesty keeps things clear and true
+- **creative with an eye for the beautiful**:
+  - a passion for all arts with a growing collection of musical instrument, paintings, sculptures, and visited galleries
+  - experience working with graphic design, generated art, scripted 3D modelling, procedural environment generation
+- **eagerness to evolve**:
+  - honest passion of learning new complex concepts and solving sophisticated problems
+  - "when one stops feeling ashamed of who he was a year ago, then one also stoped growing" 
+  - currently suffering from chronic optimism and positive attitude through humour 
+- **inventive and resourceful**:
+  - a great skill in coming up with new ideas and making connections
+  - being exposed to a great nuber of fields and informations helps with creativity
+  - experience in shaping ideas into pragmatical plans
 --------
 
---------
 
-# :hammer: General Skills
-------
-*Programming:* Python, C++, SQL, git, 
-
-*Languages* Pandas, Numpy, Matplotlib, Scikit-learn
-
-*Social* 
-
-*Innovation*
-
-*Organisational*
 
 
 --------
@@ -347,50 +360,42 @@ A relatively simple automated bot that first made random image editing operation
 # :trophy: A few recent distinctions (from the last two years)
 ------
 
-Prize: Special scholarship for academic study of the work entitled: "Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents"
-Year: 2021-2022
-Awarded by: Babes-Bolyai University Cluj-Napoca
-(as confirmed by the university [website](https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facultatatea-de-matematica-si-informatica-competitia-2021-2022/) )
+#### Special scholarship for academic study of the work entitled: "Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents"
+  - Year: 2021-2022
+  - Awarded by: Babes-Bolyai University Cluj-Napoca (Confirmed by the university [website](https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facultatatea-de-matematica-si-informatica-competitia-2021-2022/) )
 
 
-Prize: Mention award on SCSS 2020 National Conference for work on Active Learning application on Road infrstructure detection
-Year: 2020
-Awarded by: Babes-Bolyai University
-(Confirmed by name and video on the [university website](www.cs.ubbcluj.ro/scss/) )
+#### Mention award on SCSS 2020 National Conference for work on Active Learning application on Road infrstructure detection
+  - Year: 2020
+  - Awarded by: Babes-Bolyai University (Confirmed by name and video on the [university website](www.cs.ubbcluj.ro/scss/) )
 
-Prize: 3rd place on Idea Pitching competition IdeaJam
-Year: 2021
-Awarded by: Babes-Bolyai University
-(Confirmed by diploma and by their [webpage](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/) )
+#### 3rd place on Idea Pitching competition IdeaJam
+ - Year: 2021
+ - Awarded by: Babes-Bolyai University (Confirmed by diploma and by their [webpage](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/) )
 
-Prize: Participation in International hackathon 
-Year: 2020
-Awarded by: Cloudflight Coding Contest
-(Confirmed by diploma)
+#### Participation in International hackathon 
+ - Year: 2020
+ - Awarded by: Cloudflight Coding Contest (Confirmed by diploma)
 
-Prize: Participation in International hackathon Hash Code
-Year: 2020
-Awarded by: Google
-(Confirmed by diploma)
+#### Participation in International hackathon Hash Code
+ - Year: 2020
+ - Awarded by: Google (Confirmed by diploma)
 
-Prize: Participation in National Startup Hackaton
-Year: 2020
-Awarded by: Innovation Labs
-(Confirmed by diploma and by our team “Voyas” on their [facebook page](https://www.facebook.com/events/2755024327897789/?post_id=2815609768505911&view=permalink)  )
+#### Participation in National Startup Hackaton
+ - Year: 2020
+ - Awarded by: Innovation Labs (Confirmed by diploma and by our team “Voyas” on their [facebook page](https://www.facebook.com/events/2755024327897789/?post_id=2815609768505911&view=permalink)  )
 
-Prize: Top 15 qualifying teams (for Incubator round) in National Startup Hackaton 
-Year: 2021
-Awarded by: Innovation Labs
-(Confirmed by diploma, [articles](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/), official website or Facebook page)
+#### Top 15 qualifying teams (for Incubator round) in National Startup Hackaton 
+ - Year: 2021
+ - Awarded by: Innovation Labs (Confirmed by diploma, [articles](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/), official website or Facebook page)
 
-Prize: Participation for 7 months in National Startup Incubator Competition
-Year: 2021
-Awarded by: Innovation Labs
+#### Participation for 7 months in National Startup Incubator Competition
+ - Year: 2021
+ - Awarded by: Innovation Labs
 
-Prize: Won qualification round and participated in semi-finals of the Bosch Future Mobility Challenge (RC-autonomous driving international competition)
-Year: 2020 – 2021
-Awarded by: Robert Bosch SRL 
-(Team and other details can be found at their [website](https://boschfuturemobility.com/bosch-future-mobility-the-challenge/) )
+#### Won qualification round and participated in semi-finals of the Bosch Future Mobility Challenge (RC-autonomous driving international competition)
+ - Year: 2020 – 2021
+ - Awarded by: Robert Bosch SRL (Team and other details can be found at their [website](https://boschfuturemobility.com/bosch-future-mobility-the-challenge/) )
 
 
 
