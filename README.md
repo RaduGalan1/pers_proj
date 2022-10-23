@@ -63,7 +63,7 @@ Radu Galan
 # 👨‍💻 Other Projects
 
 
-##  **Anthropological simulation** 🤖🚙 
+##  **Anthropological agent-based simulation** 🐒🐒🤖🤖
 
 #### *Short description:* 
 The purpose was to create and simulate a population of early humans (Homo S. Sapiens) in the late Pleistocene of Europe (sometime between 40’000 - 12’000 years ago). The spatially explicit models provide accurate environmental attributes (temperature, altitude, geography, reconstructed ancient forests, and other resources) that are emulated based on a unique dataset inspired by satellite collections and scientific research. Human agents possess the abilities needed to perceive the environment, imagine scenarios, rationalize outcomes, decide what is best for them, and act upon the world or other agents. The decision-making processes are using decision trees trained on historical data extracted from the simulation world. All micro-level attributes and parameters are modelled based on anthropological, biological, geographical, botanical, and zoological statistical knowledge.
@@ -147,7 +147,7 @@ https://ttc.centre.ubbcluj.ro/innovation-labs-teams/
 
 
 
-## *Autonomous driving vehicle* 🤖🚙 
+## *Autonomous driving vehicle* 🧠🚙 
 
 #### *Short description:* 
 We built a track of ~200 sq. meters. We developed software and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings and park.
@@ -220,7 +220,7 @@ https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facul
 --------
 
 
-## **Market Predictor** 🤖🚙 
+## **Market Predictor** 💱📈💸 
 
 #### *Short description:* 
 Worked on an idea for a prediction algorithm on the forex market (algobot) without the trading interface (backtesting mostly). This new design achieved great results in thoery so I also integrated into a interface during a team project. The idea itself covers multiple a.i. techniques and manages to construct beautifully a logical learning environment for economical technical analysis.
@@ -258,7 +258,7 @@ python, yahoo finance, forex database, sklearn
 
 --------
 
-## **Health and Diet assistant** 🤖🚙 
+## **Health and Diet assistant** 🥬🥕🥦🩹💤⛹️‍♂️
 
 #### *Short description:* 
 The first part of the project connects multiple databases to achieve a complete dietary bridge between health needs and food (dish name correlation to recipes and ingredients, food containing of different substances depending on state, adn substance correlation to medical effect). This was a search engine that looked through millions of data points to return recipes on custom queries. These could be customized to fit certain medical needs (from alergies to a blood sugar increase). 
@@ -286,7 +286,7 @@ python, NLP libraries, ontology library, other data processing and conversion to
 
 --------
 
-## **Student Calendar** 🤖🚙 
+## **Student Calendar** 👩‍🎓📅
 
 #### *Short description:* 
 A multi-system project designed to bring together in a more pleasant and organised form the information needed to a student. It dealt with schedules, announcements, project management, and many more.
@@ -304,7 +304,7 @@ This was a university project made in bigger teams with the purpose of learning 
 
 --------
 
-## **Design Creator** 🤖🚙 
+## **Design Creator** 🤖🎨🖌️
 
 #### *Short description:* 
 A relatively simple automated bot that first made random image editing operation in photoshop on photos and then applied more sophisticated recommended techniques.
@@ -319,9 +319,11 @@ A relatively simple automated bot that first made random image editing operation
 #### *Technologies and tools:* python, image processing, uipath
 --------
 
-:trophy: Strong points
+💪🤓 Strong points
 ------
-- I can deal with complexity variance
+- ability to adapt to complexity variance: 
+  - passion for scientifical study and management methodologies necessary in a properly validated and endorsed product (you never have enough documentation)
+  - experience in fast developing and prototyping for the sake of a Proof of Concept (because sometimes time is of at most importance)
 
 --------
 
@@ -329,7 +331,7 @@ A relatively simple automated bot that first made random image editing operation
 
 # :hammer: General Skills
 ------
-*Programming:* Python, MATLAB, SQL, R, git, HTML/CSS
+*Programming:* Python, C++, SQL, git, 
 
 *Languages* Pandas, Numpy, Matplotlib, Scikit-learn
 
@@ -338,5 +340,57 @@ A relatively simple automated bot that first made random image editing operation
 *Innovation*
 
 *Organisational*
+
+
+--------
+
+# :trophy: A few recent distinctions (from the last two years)
+------
+
+Prize: Special scholarship for academic study of the work entitled: "Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents"
+Year: 2021-2022
+Awarded by: Babes-Bolyai University Cluj-Napoca
+(as confirmed by the university [website](https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facultatatea-de-matematica-si-informatica-competitia-2021-2022/) )
+
+
+Prize: Mention award on SCSS 2020 National Conference for work on Active Learning application on Road infrstructure detection
+Year: 2020
+Awarded by: Babes-Bolyai University
+(Confirmed by name and video on the [university website](www.cs.ubbcluj.ro/scss/) )
+
+Prize: 3rd place on Idea Pitching competition IdeaJam
+Year: 2021
+Awarded by: Babes-Bolyai University
+(Confirmed by diploma and by their [webpage](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/) )
+
+Prize: Participation in International hackathon 
+Year: 2020
+Awarded by: Cloudflight Coding Contest
+(Confirmed by diploma)
+
+Prize: Participation in International hackathon Hash Code
+Year: 2020
+Awarded by: Google
+(Confirmed by diploma)
+
+Prize: Participation in National Startup Hackaton
+Year: 2020
+Awarded by: Innovation Labs
+(Confirmed by diploma and by our team “Voyas” on their [facebook page](https://www.facebook.com/events/2755024327897789/?post_id=2815609768505911&view=permalink)  )
+
+Prize: Top 15 qualifying teams (for Incubator round) in National Startup Hackaton 
+Year: 2021
+Awarded by: Innovation Labs
+(Confirmed by diploma, [articles](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/), official website or Facebook page)
+
+Prize: Participation for 7 months in National Startup Incubator Competition
+Year: 2021
+Awarded by: Innovation Labs
+
+Prize: Won qualification round and participated in semi-finals of the Bosch Future Mobility Challenge (RC-autonomous driving international competition)
+Year: 2020 – 2021
+Awarded by: Robert Bosch SRL 
+(Team and other details can be found at their [website](https://boschfuturemobility.com/bosch-future-mobility-the-challenge/) )
+
 
 
