@@ -15,28 +15,28 @@ Radu Galan
 
 
 
-- [🏫Education](#--education)
-    + [*Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University*](#-master-s-degree--applied-computational-intelligence--ai----babes-bolyai-university-)
-    + [*Bachelor's Degree, Computer Science, Babes-Bolyai University*](#-bachelor-s-degree--computer-science--babes-bolyai-university-)
-    + [*National College of Informatic, Piatra Neamt*](#-national-college-of-informatic--piatra-neamt-)
-- [💼Experience](#--experience)
-    + [*MACHINE LEARNING ENGINEER - Robert Bosch - 13 months*](#-machine-learning-engineer---robert-bosch---13-months-)
-    + [*MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months*](#-machine-learning---computer-vision-engineer-----lumen---24--months-)
-- [👨‍💻 Other Projects](#------other-projects)
-  * [**Anthropological agent-based simulation** 🐒🐒🤖🤖](#--anthropological-agent-based-simulation-----------)
-  * [*VOYAS -  Intelligent itinerary generator and traveling assistant* 🧳🤖](#-voyas----intelligent-itinerary-generator-and-traveling-assistant------)
-  * [*Autonomous driving vehicle* 🧠🚙](#-autonomous-driving-vehicle------)
-  * [*Active learning for infrastructure recognition* 📷🚗🧠](#-active-learning-for-infrastructure-recognition-----
-  * [**Health and Diet assistant** 🥬🥕🥦🩹💤⛹️‍♂️](#--health-and-diet-assistant------------------)
-  * [**Student Calendar** 👩‍🎓📅](#--student-calendar----------)
-  * [**Design Creator** 🤖🎨🖌️](#--design-creator----------)
-- [💪🤓 Strong points](#-----strong-points)
+- [🏫Education](#education)
+    + [*Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University*](#master)
+    + [*Bachelor's Degree, Computer Science, Babes-Bolyai University*](#bachelor)
+    + [*National College of Informatic, Piatra Neamt*](#college)
+- [💼Experience](#experience)
+    + [*MACHINE LEARNING ENGINEER - Robert Bosch - 13 months*](#bosch)
+    + [*MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months*](#lumen)
+- [👨‍💻 Other Projects](#projects)
+  * [**Anthropological agent-based simulation** 🐒🐒🤖🤖](#simulation)
+  * [*VOYAS -  Intelligent itinerary generator and traveling assistant* 🧳🤖](#voyas)
+  * [*Autonomous driving vehicle* 🧠🚙](#autonomous)
+  * [*Active learning for infrastructure recognition* 📷🚗🧠](#active)
+  * [**Health and Diet assistant** 🥬🥕🥦🩹💤⛹️‍♂️](#health)
+  * [**Student Calendar** 👩‍🎓📅](#student)
+  * [**Design Creator** 🤖🎨🖌️](#design)
+- [💪🤓 Strong points](#strong)
 - [:trophy: A few recent distinctions (from the last two years)](#distinct)
 
 
 ----------------
-# 🏫Education
-### *Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University* 
+# 🏫Education <a name="education"></a>
+### *Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University* <a name="master"></a>
 (2020-2022) 👴🎓🥼
 - *active in the scientific community*: by presenting articles at one *International Conference* and one Student Conference
 - *supported by the university*: as I *conducted a scientific project* that received *academic scholarship* entitled "Generation and Simulation of Artificial Human Societies using Anthropologically modeled Learning Agents" which is in the publishing process at *IEE access*
@@ -44,7 +44,7 @@ Radu Galan
 
 --------
 
-### *Bachelor's Degree, Computer Science, Babes-Bolyai University* 
+### *Bachelor's Degree, Computer Science, Babes-Bolyai University* <a name="bachelor"></a>
 (2017-2020) 🤵💻📚
 - *pursued the passion for mathematics and programming*: participated in over *10 competitions/hackathons* in the field
 - *connected and active in administration*: role of *Year Representative* and member of 3 different ONG/associations
@@ -53,23 +53,23 @@ Radu Galan
 
 -------------
 
-### *National College of Informatic, Piatra Neamt* 
+### *National College of Informatic, Piatra Neamt* <a name="college"></a>
 (2013-2017) 👶 ‍🔬 🎮
 - *early passion in sciences*: with 20 prizes and over 20 participation in *Informatics, Math, Physics, Chemistry, Literature*
 - *internationally exposed*: created *software, scientific and cinematic projects* in collaboration with other 8 international schools 
 
 ---------
 
-# 💼Experience
+# 💼Experience <a name="experience"></a>
 
-### *MACHINE LEARNING ENGINEER - Robert Bosch - 13 months* 
+### *MACHINE LEARNING ENGINEER - Robert Bosch - 13 months* <a name="bosch"></a>
 (2019-2020) 🤖👁️🚙 
 - Anomaly detection,  A.I., Statistics, Deep Learning using docker, spark, Hadoop, Keras
 - Working Student role for a thesis project: *"Automotive intelligent systems: tunnel and bridge recognition using deep learning techniques"* awarded with *Honorable Mention at the SCSS competition* by Babes Bolyai University, the maximum grade for the thesis presentation, and was presented at an *international conference: MDIS*.
 
 --------
 
-### *MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months*
+### *MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months* <a name="lumen"></a>
 (2020-present) 🤖👁️👨‍🦯
 - Working to create, integrate and maintain the intelligent models on a device that helps the blind navigate independently
 -  artificial intelligence algorithms, computer vision models (for detection, classification, segmentation, OCR) training/validation/deployment on embedded, dataset creation and analysis, Robotics, ROS, Ubuntu
@@ -77,10 +77,10 @@ Radu Galan
 
 -----
 
-# 👨‍💻 Other Projects
+# 👨‍💻 Other Projects <a name="projects"></a>
 
 
-##  **Anthropological agent-based simulation** 🐒🐒🤖🤖
+##  **Anthropological agent-based simulation** 🐒🐒🤖🤖 <a name="simulation"></a>
 
 #### *Short description:* 
 The purpose was to create and simulate a population of early humans (Homo S. Sapiens) in the late Pleistocene of Europe (sometime between 40’000 - 12’000 years ago). The spatially explicit models provide accurate environmental attributes (temperature, altitude, geography, reconstructed ancient forests, and other resources) that are emulated based on a unique dataset inspired by satellite collections and scientific research. Human agents possess the abilities needed to perceive the environment, imagine scenarios, rationalize outcomes, decide what is best for them, and act upon the world or other agents. The decision-making processes are using decision trees trained on historical data extracted from the simulation world. All micro-level attributes and parameters are modeled based on anthropological, biological, geographical, botanical, and zoological statistical knowledge.
@@ -113,7 +113,7 @@ This represents the dissertation thesis for my master's degree. It also received
 
 --------
 
-## *VOYAS -  Intelligent itinerary generator and traveling assistant* 🧳🤖
+## *VOYAS -  Intelligent itinerary generator and traveling assistant* 🧳🤖 <a name="voyas"></a>
 
 #### *Short description:* 
 It uses a list of tourist objectives, a location, a time period. Takes into consideration: the user's interests, the active hours, recommended visit time, preferred transit, the need for uniformly distributed activities on all days, shortest route distance, and other personal information for a custom traveling itinerary. There is a personal recommender system, complex route optimization, location recommender, and live assistant.
@@ -164,7 +164,7 @@ https://ttc.centre.ubbcluj.ro/innovation-labs-teams/
 
 
 
-## *Autonomous driving vehicle* 🧠🚙 
+## *Autonomous driving vehicle* 🧠🚙  <a name="autonomous"></a>
 
 #### *Short description:* 
 We built a track of ~200 sq. meters. We developed software and engineered augmentations for a miniature car that would be able to self-drive in multiple scenarios. The car was able to independently lane keep in multiple road conditions, drive through intersections (with signs or semaphores), check for pedestrians on crossings, and park.
@@ -201,7 +201,7 @@ python, sensory fusion, embedded, linux, robotics, electronics, SVM based sign d
 --------
 
 
-## *Active learning for infrastructure recognition* 📷🚗🧠
+## *Active learning for infrastructure recognition* 📷🚗🧠  <a name="active"></a>
 
 #### *Short description:* 
 The purpose was to identify infrastructure (particularly bridges and tunnels) on real-world automotive data. This was a production-ready project that ended up also being deployed. I labeled a driving dataset with tunnel, bridge classifications (binary and multi-class); trained and tuned multiple models on the data; applied data optimization methods (active and semi-supervised learning); and created a simple GUI for the whole process.  
@@ -237,7 +237,7 @@ https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facul
 --------
 
 
-## **Market Predictor** 💱📈💸 
+## **Market Predictor** 💱📈💸 <a name="algobot"></a>
 
 #### *Short description:* 
 Worked on an idea for a prediction algorithm on the forex market (algobot) without the trading interface (backtesting mostly). This new design achieved great results in theory so I also integrated it into an interface during a team project. The idea itself covers multiple a.i. techniques and manages to beautifully construct a logical learning environment for economical technical analysis.
@@ -275,7 +275,7 @@ python, yahoo finance, forex database, sklearn
 
 --------
 
-## **Health and Diet assistant** 🥬🥕🥦🩹💤⛹️‍♂️
+## **Health and Diet assistant** 🥬🥕🥦🩹💤⛹️‍♂️  <a name="health"></a>
 
 #### *Short description:* 
 The first part of the project connects multiple databases to achieve a complete dietary bridge between health needs and food (dish name correlation to recipes and ingredients, food containing different substances depending on state, and substance correlation to medical effect). This was a search engine that looked through millions of data points to return recipes on custom queries. These could be customized to fit certain medical needs (from allergies to a blood sugar increase). 
@@ -303,7 +303,7 @@ python, NLP libraries, ontology libraries, other data processing, and conversion
 
 --------
 
-## **Student Calendar** 👩‍🎓📅
+## **Student Calendar** 👩‍🎓📅 <a name="student"></a>
 
 #### *Short description:* 
 A multi-system project designed to bring together in a more pleasant and organized form the information needed by a student. It dealt with schedules, announcements, project management, and many more.
@@ -321,7 +321,7 @@ This was a university project made in bigger teams with the purpose of learning 
 
 --------
 
-## **Design Creator** 🤖🎨🖌️
+## **Design Creator** 🤖🎨🖌️ <a name="design"></a>
 
 #### *Short description:* 
 A relatively simple automated bot that first made random image editing operations in photoshop on photos and then applied more sophisticated recommended techniques.
@@ -336,7 +336,7 @@ A relatively simple automated bot that first made random image editing operation
 #### *Technologies and tools:* python, image processing, uipath
 --------
 
-# 💪🤓 Strong points
+# 💪🤓 Strong points <a name="strong"></a>
 - **scientific expertise**:
   - conducted and participated in multiple academic research projects
   - a curiosity to always experiment with the State Of The Art
