@@ -15,6 +15,23 @@ Radu Galan
 
 
 
+- [🏫Education](#--education)
+    + [*Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University*](#-master-s-degree--applied-computational-intelligence--ai----babes-bolyai-university-)
+    + [*Bachelor's Degree, Computer Science, Babes-Bolyai University*](#-bachelor-s-degree--computer-science--babes-bolyai-university-)
+    + [*National College of Informatic, Piatra Neamt*](#-national-college-of-informatic--piatra-neamt-)
+- [💼Experience](#--experience)
+    + [*MACHINE LEARNING ENGINEER - Robert Bosch - 13 months*](#-machine-learning-engineer---robert-bosch---13-months-)
+    + [*MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months*](#-machine-learning---computer-vision-engineer-----lumen---24--months-)
+- [👨‍💻 Other Projects](#------other-projects)
+  * [**Anthropological agent-based simulation** 🐒🐒🤖🤖](#--anthropological-agent-based-simulation-----------)
+  * [*VOYAS -  Intelligent itinerary generator and traveling assistant* 🧳🤖](#-voyas----intelligent-itinerary-generator-and-traveling-assistant------)
+  * [*Autonomous driving vehicle* 🧠🚙](#-autonomous-driving-vehicle------)
+  * [*Active learning for infrastructure recognition* 📷🚗🧠](#-active-learning-for-infrastructure-recognition-----
+  * [**Health and Diet assistant** 🥬🥕🥦🩹💤⛹️‍♂️](#--health-and-diet-assistant------------------)
+  * [**Student Calendar** 👩‍🎓📅](#--student-calendar----------)
+  * [**Design Creator** 🤖🎨🖌️](#--design-creator----------)
+- [💪🤓 Strong points](#-----strong-points)
+- [:trophy: A few recent distinctions (from the last two years)](#-trophy--a-few-recent-distinctions--from-the-last-two-years-)
 
 
 ----------------
@@ -319,8 +336,7 @@ A relatively simple automated bot that first made random image editing operation
 #### *Technologies and tools:* python, image processing, uipath
 --------
 
-💪🤓 Strong points
-------
+# 💪🤓 Strong points
 - **scientific expertise**:
   - conducted and participated in multiple academic research projects
   - a curiosity to always experiment with the State Of The Art
@@ -355,10 +371,7 @@ A relatively simple automated bot that first made random image editing operation
 
 
 
---------
-
 # :trophy: A few recent distinctions (from the last two years)
-------
 
 #### Special scholarship for the academic study of the work entitled: "Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents"
   - Year: 2021-2022
