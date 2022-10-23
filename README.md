@@ -31,7 +31,7 @@ Radu Galan
   * [**Student Calendar** 👩‍🎓📅](#--student-calendar----------)
   * [**Design Creator** 🤖🎨🖌️](#--design-creator----------)
 - [💪🤓 Strong points](#-----strong-points)
-- [:trophy: A few recent distinctions (from the last two years)](#-trophy--a-few-recent-distinctions--from-the-last-two-years-)
+- [:trophy: A few recent distinctions (from the last two years)](#-a-few-recent-distinctions--from-the-last-two-years-)
 
 
 ----------------
@@ -371,7 +371,7 @@ A relatively simple automated bot that first made random image editing operation
 
 
 
-# :trophy: A few recent distinctions (from the last two years)
+# A few recent distinctions (from the last two years)
 
 #### Special scholarship for the academic study of the work entitled: "Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents"
   - Year: 2021-2022
