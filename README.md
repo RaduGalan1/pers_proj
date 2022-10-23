@@ -1,7 +1,4 @@
 
-
-
-
 #### :exclamation: :exclamation: :exclamation: I have written this repository to present and keep track of a couple of the projects and achievements I'm most proud of. This should be a little more interactive of a resume. Focus on what you find interesting.  
 
 Radu Galan
@@ -9,11 +6,10 @@ Radu Galan
 
 ####  :bulb: I believe that most people these days have either lost a certain fire :fire: or they lack balance ⚖️, that's why I am trying to combine unilateral development with excellency in specific fields. The goal? Become a complete and content individual. ✔️
 ####  [linkedIn](https://www.linkedin.com/in/radu-galan/) / radu.galan1@gmail.com  
+
 ----------------
 
 ## Contents
-
-
 
 - [🏫Education](#education)
     + [*Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University*](#master)
@@ -23,18 +19,19 @@ Radu Galan
     + [*MACHINE LEARNING ENGINEER - Robert Bosch - 13 months*](#bosch)
     + [*MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months*](#lumen)
 - [👨‍💻 Other Projects](#projects)
-  * [**Anthropological agent-based simulation** 🐒🐒🤖🤖](#simulation)
+  * [*Anthropological agent-based simulation* 🐒🐒🤖🤖](#simulation)
   * [*VOYAS -  Intelligent itinerary generator and traveling assistant* 🧳🤖](#voyas)
   * [*Autonomous driving vehicle* 🧠🚙](#autonomous)
   * [*Active learning for infrastructure recognition* 📷🚗🧠](#active)
-  * [**Health and Diet assistant** 🥬🥕🥦🩹💤⛹️‍♂️](#health)
-  * [**Student Calendar** 👩‍🎓📅](#student)
-  * [**Design Creator** 🤖🎨🖌️](#design)
+  * [*Health and Diet assistant* 🥬🥕🥦🩹💤⛹️‍♂️](#health)
+  * [*Student Calendar* 👩‍🎓📅](#student)
+  * [*Design Creator* 🤖🎨🖌️](#design)
 - [💪🤓 Strong points](#strong)
 - [:trophy: A few recent distinctions (from the last two years)](#distinct)
 
 
 ----------------
+
 # 🏫Education <a name="education"></a>
 ### *Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University* <a name="master"></a>
 (2020-2022) 👴🎓🥼
@@ -337,35 +334,35 @@ A relatively simple automated bot that first made random image editing operation
 --------
 
 # 💪🤓 Strong points <a name="strong"></a>
-- **scientific expertise**:
-  - conducted and participated in multiple academic research projects
-  - a curiosity to always experiment with the State Of The Art
-  - a strong passion to learn many other subfields of science (from Astrophysics, Quantum Dynamics to Paleoecology, Anatomy)  
-- **industry experience**:
-  - developed and deployed projects on industry standard
-  - experienced many levels of complexity development
-  - worked for more than 3 years in software development teams
-- **ability to adapt to complexity variance**: 
-  - passion for scientifical study and management methodologies necessary in a properly validated and endorsed product (you never have enough documentation)
-  - experience in fast developing and prototyping for the sake of a Proof of Concept (because sometimes time is of at most importance)
-- **business understanding**:
-  - attended multiple conventions, conferences, and workshops on business development, economics, management
-  - experience in the industry with an understanding of the relationship between feasibility and requirements
-- **confidence in social know-how**:
-  - experience as a public speaker makes communication efficient and elegant
-  - a hobby of studying psychoanalysis and behavioral science gives great insight into people
-  - life philosophy of openness and honesty keeps things clear and true
-- **creative with an eye for the beautiful**:
-  - a passion for all arts with a growing collection of musical instruments, paintings, sculptures, and visited galleries
-  - experience working with graphic design, generated art, scripted 3D modeling, procedural environment generation
-- **eagerness to evolve**:
-  - an honest passion for learning new complex concepts and solving sophisticated problems
+###  **scientific expertise**:
+  - conducted and participated in multiple **academic research projects**
+  - a curiosity to always experiment with the **State Of The Art**
+  - a **strong passion to learn** many other subfields of science (from Astrophysics, Quantum Dynamics to Paleoecology, Anatomy)  
+### **industry experience**:
+  - developed and deployed projects on** industry standard**
+  - experienced many levels of **complexity** development
+  - worked for more than 3 years in software development **teams**
+### **ability to adapt to complexity variance**: 
+  - passion for **scientifical study** and **management methodologies** necessary in a properly validated and endorsed product (you never have enough documentation)
+  - experience in **fast developing and prototyping** for the sake of a Proof of Concept (because sometimes time is of at most importance)
+### **business understanding**:
+  - attended multiple **conventions, conferences, and workshops** on business development, economics, management
+  - experience in the industry with an understanding of the **relationship between feasibility and requirements**
+### **confidence in social know-how**:
+  - experience as a **public speaker** makes communication efficient and elegant
+  - a hobby of studying psychoanalysis and behavioral science gives great **insight into people**
+  - life philosophy of openness and **honesty** keeps things clear and true
+### **creative with an eye for the beautiful**:
+  - **a passion for all arts** with a growing collection of musical instruments, paintings, sculptures, and visited galleries
+  - experience working with **graphic design, generated art**, scripted **3D modeling**, procedural environment generation
+### **eagerness to evolve**:
+  - an honest passion for **learning** new complex concepts and **solving** sophisticated problems
   - "When one stops feeling ashamed of who he was a year ago, then one also stopped growing" 
-  - currently suffering from chronic optimism and positive attitude through humor 
-- **inventive and resourceful**:
-  - a great skill in coming up with new ideas and making connections
-  - being exposed to a great number of fields and information helps with creativity
-  - experience in shaping ideas into pragmatical plans
+  - currently suffering from chronic **optimism** and **positive** attitude through humor 
+### **inventive and resourceful**:
+  - a great skill in coming up with **new ideas** and making connections
+  - being exposed to a great number of fields and information helps with **creativity**
+  - experience in **shaping ideas into pragmatical plans**
 --------
 
 
