@@ -4,7 +4,7 @@
 Radu Galan
 ======
 
-####  :bulb: I believe that most people these days have either lost a certain fire :fire: or they lack balance ⚖️, that's why I am trying to combine unilateral development with excellency in specific fields. The goal? Become a complete and content individual. ✔️
+####  :bulb: I believe that these days we are encouraged to extremes. People either lose their inner fire :fire: or they end up completely unbalanced ⚖️, that's why I am trying to combine unilateral development with excellency in specific fields. The goal? Become a complete and content individual. ✔️
 ####  [linkedIn](https://www.linkedin.com/in/radu-galan/) / radu.galan1@gmail.com  
 
 ----------------
