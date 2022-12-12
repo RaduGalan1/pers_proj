@@ -1,16 +1,26 @@
 
-#### :exclamation: :exclamation: :exclamation: I have written this repository to present and keep track of a couple of the projects and achievements I'm most proud of. This should be a little more interactive of a resume. Focus on what you find interesting.  
+#### :exclamation: :exclamation: :exclamation: This should be interactive. Focus on what you find interesting. Seriously. It's pretty long.
 
-Radu Galan - AI, ML, CV, DS
+Radu Galan - Technical Resume
 ======
 
-####  :bulb: I believe that these days we are encouraged to extremes. People either lose their inner fire :fire: or they end up completely unbalanced ⚖️, that's why I am trying to combine unilateral development with excellency in specific fields. The goal? Become a complete and content individual. ✔️
-####  [linkedIn](https://www.linkedin.com/in/radu-galan/) / radu.galan1@gmail.com  
+####  :bulb: These days we are encouraged to extreme behaviours. People either lose their inner fire :fire: or they end up completely unbalanced ⚖️.
+#### I believe multidisciplinary development alongside excellency in a specific field could be a solution. ✔️
+
+
 
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 
-## Contents
-
+## Table of Contents
+(click*)
+- [:trophy: A few recent distinctions (from the last two years)](#distinct)
+- [ 🌟 Strong points](#strong)
 - [🏫Education](#education)
     + [*Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University*](#master)
     + [*Bachelor's Degree, Computer Science, Babes-Bolyai University*](#bachelor)
@@ -18,7 +28,7 @@ Radu Galan - AI, ML, CV, DS
 - [💼Experience](#experience)
     + [*MACHINE LEARNING ENGINEER - Robert Bosch - 13 months*](#bosch)
     + [*MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months*](#lumen)
-- [👨‍💻 Other Projects](#projects)
+- [👨‍💻 SIDE PROJECTS](#projects)
   * [*Anthropological agent-based simulation* 🐒🐒🤖🤖](#simulation)
   * [*VOYAS -  Intelligent itinerary generator and traveling assistant* 🧳🤖](#voyas)
   * [*Autonomous driving vehicle* 🧠🚙](#autonomous)
@@ -26,11 +36,115 @@ Radu Galan - AI, ML, CV, DS
   * [*Health and Diet assistant* 🥬🥕🥦🩹💤⛹️‍♂️](#health)
   * [*Student Calendar* 👩‍🎓📅](#student)
   * [*Design Creator* 🤖🎨🖌️](#design)
-- [💪🤓 Strong points](#strong)
-- [:trophy: A few recent distinctions (from the last two years)](#distinct)
+
+
+
 
 
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+
+
+
+
+
+# :trophy:  A few recent distinctions (from the last two years) <a name="distinct"></a>
+
+#### Special scholarship for the academic study of the work entitled: "Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents"
+  - Year: 2021-2022
+  - Awarded by: Babes-Bolyai University Cluj-Napoca (Confirmed by the university [website](https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facultatatea-de-matematica-si-informatica-competitia-2021-2022/) )
+
+
+#### Mention award on SCSS 2020 National Conference for work on Active Learning application on Road infrastructure detection
+  - Year: 2020
+  - Awarded by: Babes-Bolyai University (Confirmed by name and video on the [university website](www.cs.ubbcluj.ro/scss/) )
+
+#### 3rd place in Idea Pitching competition IdeaJam
+ - Year: 2021
+ - Awarded by: Babes-Bolyai University (Confirmed by diploma and by their [webpage](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/) )
+
+#### Participation in International hackathon 
+ - Year: 2020
+ - Awarded by: Cloudflight Coding Contest (Confirmed by diploma)
+
+#### Participation in International hackathon Hash Code
+ - Year: 2020
+ - Awarded by: Google (Confirmed by diploma)
+
+#### Participation in National Startup Hackaton
+ - Year: 2020
+ - Awarded by: Innovation Labs (Confirmed by diploma and by our team “Voyas” on their [facebook page](https://www.facebook.com/events/2755024327897789/?post_id=2815609768505911&view=permalink)  )
+
+#### Top 15 qualifying teams (for Incubator round) in National Startup Hackaton 
+ - Year: 2021
+ - Awarded by: Innovation Labs (Confirmed by diploma, [articles](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/), official website or Facebook page)
+
+#### Participation for 7 months in National Startup Incubator Competition
+ - Year: 2021
+ - Awarded by: Innovation Labs
+
+#### Won qualification round and participated in semi-finals of the Bosch Future Mobility Challenge (RC-autonomous driving international competition)
+ - Year: 2020 – 2021
+ - Awarded by: Robert Bosch SRL (Team and other details can be found at their [website](https://boschfuturemobility.com/bosch-future-mobility-the-challenge/) )
+
+
+
+
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+
+
+#  🌟 Strong points <a name="strong"></a>
+###  **scientific expertise**:
+  - conducted and participated in multiple **academic research projects**
+  - a curiosity to always experiment with the **State Of The Art**
+  - a **strong passion to learn** many other subfields of science (from Astrophysics, Quantum Dynamics to Paleoecology, Anatomy)  
+### **industry experience**:
+  - developed and deployed projects on** industry standard**
+  - experienced many levels of **complexity** development
+  - worked for more than 3 years in software development **teams**
+### **ability to adapt to complexity variance**: 
+  - passion for **scientifical study** and **management methodologies** necessary in a properly validated and endorsed product (you never have enough documentation)
+  - experience in **fast developing and prototyping** for the sake of a Proof of Concept (because sometimes time is of at most importance)
+### **business understanding**:
+  - attended multiple **conventions, conferences, and workshops** on business development, economics, management
+  - experience in the industry with an understanding of the **relationship between feasibility and requirements**
+### **confidence in social know-how**:
+  - experience as a **public speaker** makes communication efficient and elegant
+  - a hobby of studying psychoanalysis and behavioral science gives great **insight into people**
+  - life philosophy of openness and **honesty** keeps things clear and true
+### **creative with an eye for the beautiful**:
+  - **a passion for all arts** with a growing collection of musical instruments, paintings, sculptures, and visited galleries
+  - experience working with **graphic design, generated art**, scripted **3D modeling**, procedural environment generation
+### **eagerness to evolve**:
+  - an honest passion for **learning** new complex concepts and **solving** sophisticated problems
+  - "When one stops feeling ashamed of who he was a year ago, then one also stopped growing" 
+  - currently suffering from chronic **optimism** and **positive** attitude through humor 
+### **inventive and resourceful**:
+  - a great skill in coming up with **new ideas** and making connections
+  - being exposed to a great number of fields and information helps with **creativity**
+  - experience in **shaping ideas into pragmatical plans**
+
+
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+
+
 
 # 🏫Education <a name="education"></a>
 ### *Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University* <a name="master"></a>
@@ -53,18 +167,19 @@ Radu Galan - AI, ML, CV, DS
 ### *National College of Informatic, Piatra Neamt* <a name="college"></a>
 (2013-2017) 👶 ‍🔬 🎮
 - *early passion in sciences*: with 20 prizes and over 20 participation in *Informatics, Math, Physics, Chemistry, Literature*
-- *internationally exposed*: created *software, scientific and cinematic projects* in collaboration with other 8 international schools 
+- *internationally exposed*: created *software, scientific and cinematic projects* in collaboration with other 15+ international schools: Rusia, Turkey, Spain, Greece, Italy, Germany, Austria, Slovakia, Slovenia, Hungary.
 
----------
+
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 
 # 💼Experience <a name="experience"></a>
 
-### *MACHINE LEARNING ENGINEER - Robert Bosch - 13 months* <a name="bosch"></a>
-(2019-2020) 🤖👁️🚙 
-- Anomaly detection,  A.I., Statistics, Deep Learning using docker, spark, Hadoop, Keras
-- Working Student role for a thesis project: *"Automotive intelligent systems: tunnel and bridge recognition using deep learning techniques"* awarded with *Honorable Mention at the SCSS competition* by Babes Bolyai University, the maximum grade for the thesis presentation, and was presented at an *international conference: MDIS*.
-
---------
 
 ### *MACHINE LEARNING & COMPUTER VISION ENGINEER  -  .lumen - 24+ months* <a name="lumen"></a>
 (2020-present) 🤖👁️👨‍🦯
@@ -73,6 +188,22 @@ Radu Galan - AI, ML, CV, DS
 -  mainly worked with python (sometimes other needed languages or tools), used data science libraries (from simple numpy, panda to complex dataset constructions and querying), machine learning (from scikit and pytorch to cuda optimizations) 
 
 -----
+
+### *MACHINE LEARNING ENGINEER - Robert Bosch - 13 months* <a name="bosch"></a>
+(2019-2020) 🤖👁️🚙 
+- Anomaly detection,  A.I., Statistics, Deep Learning using docker, spark, Hadoop, Keras
+- Working Student role for a thesis project: *"Automotive intelligent systems: tunnel and bridge recognition using deep learning techniques"* awarded with *Honorable Mention at the SCSS competition* by Babes Bolyai University, the maximum grade for the thesis presentation, and was presented at an *international conference: MDIS*.
+
+
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+
+
 
 # 👨‍💻 Other Projects <a name="projects"></a>
 
@@ -92,8 +223,8 @@ The purpose was to create and simulate a population of early humans (Homo S. Sap
 | ------------- | 
 ![data](https://user-images.githubusercontent.com/24411949/197292508-d8b2d54c-f102-46da-a442-1a0a70c52744.png)| 
 
-#### *Videos: click image to open*
-
+#### *Videos:*
+👇 click 👇
 | Presentation |  Plant simulation | Human simulation  |
 | ------------- |:-------------:| -----:|
 | [![ss_prez](https://user-images.githubusercontent.com/24411949/197291699-d233cfb2-c5e4-4008-b24b-80a097609544.png)](https://youtu.be/4JRiTkqs3JY)      | [![ss_map](https://user-images.githubusercontent.com/24411949/197292094-77955cbd-c646-48de-88e6-2c19d96c7d8d.png)](https://youtu.be/ES9tGGEQmPU) | [<img src="https://user-images.githubusercontent.com/24411949/197292398-8d103eca-195c-41f5-bf29-5fd5b4f6c4f8.png" alt="IMAGE ALT TEXT HERE" width="1940" height="160" border="10" />](https://youtu.be/ByEYaAFG_b0) |
@@ -137,8 +268,8 @@ It uses a list of tourist objectives, a location, a time period. Takes into cons
 |   ![mobile_app](https://user-images.githubusercontent.com/24411949/197050278-8cdbb0b2-00e6-4f6e-8334-d60680a893f7.png)  | ![logo](https://user-images.githubusercontent.com/24411949/197050880-3d00a404-3532-4439-93af-edcc9df7ce5c.png) | 
 
 
-#### *Videos: click image to open*
-
+#### *Videos:*
+👇 click 👇
 | Short mobile application demo |  Idea presentation | 
 | ------------- |:-------------:| 
 | [<img src="https://user-images.githubusercontent.com/24411949/197053921-9d108ba2-9d19-4ba8-a7a3-bbe8818965c5.png" alt="IMAGE ALT TEXT HERE" width="300" height="420" border="10" />](https://youtube.com/shorts/IE4gk0PsTTc)  | [![ss_prezentare](https://user-images.githubusercontent.com/24411949/197054487-d4d06a70-9206-4e96-a5b3-f60750469e86.png)](https://youtu.be/uLDOOdmViWA) | 
@@ -176,8 +307,8 @@ We built a track of ~200 sq. meters. We developed software and engineered augmen
 | ------------- |:-------------:| -----:|
 |  <img src="https://user-images.githubusercontent.com/24411949/197062549-46aff3f7-245b-487c-953b-e49776bf7a8e.png" alt="The application" width="440" height="290" border="10" />     | ![crossing_detection](https://user-images.githubusercontent.com/24411949/197062608-19c04207-8d8d-45ba-8eed-c3de946a7744.png) | ![lane_detection](https://user-images.githubusercontent.com/24411949/197062652-c989cedf-b2fb-4a35-9c5e-2d7a522882bb.png) |
 
-#### *Videos: click image to open*
-
+#### *Videos:*
+👇 click 👇
 | Demo video | 
 | ------------- |
 |   [![ss_demo](https://user-images.githubusercontent.com/24411949/197063004-e7069264-5c2e-49b8-a8e9-d28c9bddf176.png)](https://www.youtube.com/watch?v=zTrHd3_6PZo)    | 
@@ -252,7 +383,7 @@ Worked on an idea for a prediction algorithm on the forex market (algobot) witho
 |![interface](https://user-images.githubusercontent.com/24411949/197294686-8ad78a4d-e199-4d5f-b730-15c393cd0bac.png)   | 
 
 #### *Videos:*
-
+👇 click 👇
 | Presentation of app and algorithm | 
 | ------------- |
 | [![ss_pres](https://user-images.githubusercontent.com/24411949/197293482-43d6ab38-08a4-47a9-b571-b5aab0b4fa52.png)](https://www.youtube.com/watch?v=YmtdlMYznQs) | 
@@ -323,7 +454,7 @@ This was a university project made in bigger teams with the purpose of learning 
 #### *Short description:* 
 A relatively simple automated bot that first made random image editing operations in photoshop on photos and then applied more sophisticated recommended techniques.
 #### *Videos:*
-
+👇 click 👇
 | Demo of initial design bot | 
 | ------------- |
 |  [ <img src="https://user-images.githubusercontent.com/24411949/197296196-eaafe3ef-6301-4e4c-99fc-38767a7d1940.png" alt="The bot" width="480" height="360" border="10" />   ](https://www.youtube.com/watch?v=1yyYCnmAads) |
@@ -333,79 +464,11 @@ A relatively simple automated bot that first made random image editing operation
 #### *Technologies and tools:* python, image processing, uipath
 --------
 
-# 💪🤓 Strong points <a name="strong"></a>
-###  **scientific expertise**:
-  - conducted and participated in multiple **academic research projects**
-  - a curiosity to always experiment with the **State Of The Art**
-  - a **strong passion to learn** many other subfields of science (from Astrophysics, Quantum Dynamics to Paleoecology, Anatomy)  
-### **industry experience**:
-  - developed and deployed projects on** industry standard**
-  - experienced many levels of **complexity** development
-  - worked for more than 3 years in software development **teams**
-### **ability to adapt to complexity variance**: 
-  - passion for **scientifical study** and **management methodologies** necessary in a properly validated and endorsed product (you never have enough documentation)
-  - experience in **fast developing and prototyping** for the sake of a Proof of Concept (because sometimes time is of at most importance)
-### **business understanding**:
-  - attended multiple **conventions, conferences, and workshops** on business development, economics, management
-  - experience in the industry with an understanding of the **relationship between feasibility and requirements**
-### **confidence in social know-how**:
-  - experience as a **public speaker** makes communication efficient and elegant
-  - a hobby of studying psychoanalysis and behavioral science gives great **insight into people**
-  - life philosophy of openness and **honesty** keeps things clear and true
-### **creative with an eye for the beautiful**:
-  - **a passion for all arts** with a growing collection of musical instruments, paintings, sculptures, and visited galleries
-  - experience working with **graphic design, generated art**, scripted **3D modeling**, procedural environment generation
-### **eagerness to evolve**:
-  - an honest passion for **learning** new complex concepts and **solving** sophisticated problems
-  - "When one stops feeling ashamed of who he was a year ago, then one also stopped growing" 
-  - currently suffering from chronic **optimism** and **positive** attitude through humor 
-### **inventive and resourceful**:
-  - a great skill in coming up with **new ideas** and making connections
-  - being exposed to a great number of fields and information helps with **creativity**
-  - experience in **shaping ideas into pragmatical plans**
---------
 
 
+## Let's get in touch! 📞 
+[LinkedIn](https://www.linkedin.com/in/radu-galan/) ||| [Skype](https://join.skype.com/invite/M7B7eSxLEDoE) ||| radu.galan1@gmail.com  
 
-
-# :trophy:  A few recent distinctions (from the last two years) <a name="distinct"></a>
-
-#### Special scholarship for the academic study of the work entitled: "Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents"
-  - Year: 2021-2022
-  - Awarded by: Babes-Bolyai University Cluj-Napoca (Confirmed by the university [website](https://www.cs.ubbcluj.ro/burse-speciale-pentru-activitatea-stiintifica-in-facultatatea-de-matematica-si-informatica-competitia-2021-2022/) )
-
-
-#### Mention award on SCSS 2020 National Conference for work on Active Learning application on Road infrastructure detection
-  - Year: 2020
-  - Awarded by: Babes-Bolyai University (Confirmed by name and video on the [university website](www.cs.ubbcluj.ro/scss/) )
-
-#### 3rd place in Idea Pitching competition IdeaJam
- - Year: 2021
- - Awarded by: Babes-Bolyai University (Confirmed by diploma and by their [webpage](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/) )
-
-#### Participation in International hackathon 
- - Year: 2020
- - Awarded by: Cloudflight Coding Contest (Confirmed by diploma)
-
-#### Participation in International hackathon Hash Code
- - Year: 2020
- - Awarded by: Google (Confirmed by diploma)
-
-#### Participation in National Startup Hackaton
- - Year: 2020
- - Awarded by: Innovation Labs (Confirmed by diploma and by our team “Voyas” on their [facebook page](https://www.facebook.com/events/2755024327897789/?post_id=2815609768505911&view=permalink)  )
-
-#### Top 15 qualifying teams (for Incubator round) in National Startup Hackaton 
- - Year: 2021
- - Awarded by: Innovation Labs (Confirmed by diploma, [articles](https://ttc.centre.ubbcluj.ro/innovation-labs-teams/), official website or Facebook page)
-
-#### Participation for 7 months in National Startup Incubator Competition
- - Year: 2021
- - Awarded by: Innovation Labs
-
-#### Won qualification round and participated in semi-finals of the Bosch Future Mobility Challenge (RC-autonomous driving international competition)
- - Year: 2020 – 2021
- - Awarded by: Robert Bosch SRL (Team and other details can be found at their [website](https://boschfuturemobility.com/bosch-future-mobility-the-challenge/) )
 
 
 
