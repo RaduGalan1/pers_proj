@@ -36,8 +36,7 @@ Alternatively we can even discuss other details.
 But regardless of the case... 
 
 ## Let's get in touch! 📞 
- - [linkedIn](https://www.linkedin.com/in/radu-galan/)
- - radu.galan1@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/radu-galan/) ||| [Skype](https://join.skype.com/invite/M7B7eSxLEDoE) ||| radu.galan1@gmail.com  
 
 
 ----------------
