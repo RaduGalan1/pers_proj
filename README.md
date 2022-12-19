@@ -9,8 +9,12 @@ First things first..
 ## In a hurry? ✈️ 
 I'm gonna try and pitch myself in about a minute.
 
-(it's clickable)
+👇(it's clickable)👇
 
+--------------------
+[![Screenshot 2022-12-19 132939](https://user-images.githubusercontent.com/24411949/208420978-54eb9bb1-ebb9-4f01-8322-265f0b0cedf2.png)](https://www.youtube.com/watch?v=Q7Ayyve3-Mg&list=PLgIPHnjAhQVT7WR6bEY8AkwsZ6VjGwm63&index=1)
+
+--------------------
 
 ## You think its interesting? Well thanks! 🚂 🚂
 
