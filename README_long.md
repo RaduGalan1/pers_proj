@@ -148,7 +148,7 @@ Radu Galan - Technical Resume
 
 # 🏫Education <a name="education"></a>
 ### *Master's Degree, Applied Computational Intelligence (A.I.),  Babes-Bolyai University* <a name="master"></a>
-(2020-2022) 👴🎓🥼
+ 👴🎓🥼
 - *active in the scientific community*: by presenting articles at one *International Conference* and one Student Conference
 - *supported by the university*: as I *conducted a scientific project* that received *academic scholarship* entitled "Generation and Simulation of Artificial Human Societies using Anthropologically modeled Learning Agents" which is in the publishing process at *IEE access*
 - *connected with the local ecosystem and the industry*
@@ -156,7 +156,7 @@ Radu Galan - Technical Resume
 --------
 
 ### *Bachelor's Degree, Computer Science, Babes-Bolyai University* <a name="bachelor"></a>
-(2017-2020) 🤵💻📚
+ 🤵💻📚
 - *pursued the passion for mathematics and programming*: participated in over *10 competitions/hackathons* in the field
 - *connected and active in administration*: role of *Year Representative* and member of 3 different ONG/associations
 - *smooth transition into the industry*: employed for an *internship* and also developed multiple *team projects* in collaboration with the local IT ecosystem 
@@ -165,7 +165,7 @@ Radu Galan - Technical Resume
 -------------
 
 ### *National College of Informatic, Piatra Neamt* <a name="college"></a>
-(2013-2017) 👶 ‍🔬 🎮
+ 👶 ‍🔬 🎮
 - *early passion in sciences*: with 20 prizes and over 20 participation in *Informatics, Math, Physics, Chemistry, Literature*
 - *internationally exposed*: created *software, scientific and cinematic projects* in collaboration with other 15+ international schools: Rusia, Turkey, Spain, Greece, Italy, Germany, Austria, Slovakia, Slovenia, Hungary.
 
