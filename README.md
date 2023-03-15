@@ -18,7 +18,7 @@ I'm gonna try and pitch myself in about a minute.
 
 ## You think it's interesting? Well, thanks! 🚂 
 
-For more details about **work experience** see my pdf resume [uploaded also here on git](https://github.com/RaduGalan1/pers_proj/blob/main/Radu_Galan_Resume2022.12.pdf) 👈 
+For more details about **work experience** see my pdf resume [uploaded also here on git](https://github.com/RaduGalan1/pers_proj/blob/main/Resume-RaduGalan-2023.3.pdf) 👈 
 
 You already saw this or maybe you're into technicalities...
 
